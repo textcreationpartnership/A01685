@@ -36,9 +36,33 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A vvork vvorth the reading VVherein is contayned, fiue profitable and pithy questions, very expedien
+
+1. To the Right Worſhipfull, Sir
+Nicholas Bacon Knight: long life in
+proſperitie, with endles ioye by
+Mortalitie.
+
+1. To the indifferent Reader.
+
 #####Body#####
-A vvork vvorth the reading VVherein is contayned, fiue profitable and pithy questions, very expedien
+
+1. Whether the Election of the Parents
+is to be preferred before the affection
+of their Children in Marriage.
+
+1. VVhether the Father may lawfully
+diſinherit his first borne.
+
+1. VVhether a reaſonable allowance may be
+taken for lending of monie.
+
+1. VVhether the Rich or the Poore are to
+be accompted moſt bleſſed.
+
+1. VVhether there be degrees of glorie in
+heauen, or difference of paines
+in hell.
+
 **Types of content**
 
   * There are 4 **verse** lines!
